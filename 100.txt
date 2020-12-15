@@ -1,0 +1,11 @@
+nombre:Ulises  edad:21 tiempo:20 lugar:Ocosingo
+nombre:Eduardo edad:21 tiempo:18 lugar:Ocosingo
+nombre:Enrique edad:21 tiempo:17 lugar:San Cristóbal
+nombre:Carlos  edad:21 tiempo:15 lugar:Tuxtla 
+nombre:Pedro   edad:21 tiempo:20 lugar:Yajalón 
+nombre:Joaquín edad:21 tiempo:20 lugar:Altamirano 
+nombre:Mateo   edad:21 tiempo:25 lugar:Chilón
+nombre:Sergio  edad:21 tiempo:21 lugar:Ocosingo 
+nombre:Juan    edad:21 tiempo:22 lugar:Tuxtla 
+nombre:Adrián  edad:21 tiempo:20 lugar:Altamirano 
+nombre:Ramiro  edad:21 tiempo:19 lugar:Ocosingo 

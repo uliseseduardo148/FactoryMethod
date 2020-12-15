@@ -1,0 +1,10 @@
+C:\Users\cliente-preferido\source\repos\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\FactoryMethod\obj\Debug\FactoryMethod.Form1.resources
+C:\Users\cliente-preferido\source\repos\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+C:\Users\cliente-preferido\source\repos\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.cache
+C:\Users\cliente-preferido\source\repos\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\cliente-preferido\source\repos\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\cliente-preferido\source\repos\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\cliente-preferido\source\repos\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\cliente-preferido\source\repos\FactoryMethod\obj\Debug\FactoryMethod.pdb

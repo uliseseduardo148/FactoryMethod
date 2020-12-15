@@ -1,0 +1,11 @@
+nombre:Ana Karen  edad:17 tiempo:20 lugar:Tuxtla
+nombre:Jessica    edad:17 tiempo:18 lugar:Ocosingo
+nombre:Yulissa    edad:17 tiempo:17 lugar:Yajalón 
+nombre:Dulce      edad:17 tiempo:15 lugar:Tuxtla 
+nombre:Wendy      edad:17 tiempo:20 lugar:Chilón
+nombre:Jennifer   edad:17 tiempo:20 lugar:Altamirano 
+nombre:Rosa Isela edad:17 tiempo:25 lugar:Berriozabal
+nombre:Adela      edad:17 tiempo:21 lugar:Ocosingo 
+nombre:Lizeth     edad:17 tiempo:22 lugar:Frontera Comalapa
+nombre:Valentina  edad:17 tiempo:20 lugar:Altamirano 
+nombre:Nancy      edad:17 tiempo:19 lugar:Ocosingo 
